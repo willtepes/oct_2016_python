@@ -2,7 +2,7 @@
 
 ## Week 1
 
-#### Monday, October 3
+### Monday, October 3
 
 Intro to Python and the Python Olympics.
 
@@ -27,7 +27,7 @@ Regex Assignment|
 Crawler|
 CSV|
 
-#### Tuesday, October 4
+### Tuesday, October 4
 
 Intro to Flask
 
@@ -39,7 +39,7 @@ Counter|
 Great Number Game **GitHub**|
 Ninja Gold **GitHub**|
 
-#### Wednesday, October 5
+### Wednesday, October 5
 
 Flask Olympics
 
@@ -51,7 +51,7 @@ Dojo Survey with Validation|
 Registration Form **GitHub**|
 Disappearing Ninja **GitHub**|
 
-#### Thursday, October 6
+### Thursday, October 6
 
 Intro to (my)SQL
 
@@ -72,7 +72,7 @@ SQLZoo|
 NoSQL Databases|
 
 
-#### Friday, October 7
+### Friday, October 7
 
 Flask and MySQL, together at last
 
@@ -86,7 +86,7 @@ Login and Registration **GitHub**|
 
 ## Week 2
 
-#### Monday, October 10
+### Monday, October 10
 
 Flask + MySQL + AJAX: Notes
 
@@ -98,7 +98,7 @@ Optional|
 ---|
 Semi-Restful Users|
 
-#### Tuesday, October 11
+### Tuesday, October 11
 
 Oops?  Object-oriented programming.
 
@@ -118,7 +118,7 @@ Doubly-Linked Lists|
 
 : Through MathDojo (we'll do Underscore together in class)
 
-#### Wednesday, October 12
+### Wednesday, October 12
 
 Introduction to Django
 
@@ -128,7 +128,7 @@ Time Display|
 Random Word Generator **GitHub**|
 Survey Form **GitHub**|
 
-#### Thursday, October 13
+### Thursday, October 13
 
 Regex Olympics
 
@@ -137,7 +137,7 @@ Assignments|
 Disappearing Ninja **GitHub**|
 Ninja Gold **GitHub**|
 
-#### Friday, October 14
+### Friday, October 14
 
 Intro to models (the "M" in MTV)
 
@@ -151,7 +151,7 @@ E-mail Validation **GitHub**|
 
 ## Week 3
 
-#### Monday, October 17
+### Monday, October 17
 
 GitHub practice
 
@@ -160,7 +160,7 @@ Assignments|
 Login and Registration **GitHub**|
 Multiple Apps **GitHub**|
 
-#### Tuesday, October 18
+### Tuesday, October 18
 
 Assignments|
 ---|
@@ -172,7 +172,7 @@ Optional|
 ---|
 World Database ORM|
 
-#### Wednesday, October 19
+### Wednesday, October 19
 
 Deployment
 
@@ -180,10 +180,10 @@ Assignments|
 ---|
 Belt Reviewer **GitHub**|
 
-#### Thursday, October 20
+### Thursday, October 20
 
 General catch-up
 
-#### Friday, October 21
+### Friday, October 21
 
 BELT EXAM!

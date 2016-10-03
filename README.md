@@ -1,4 +1,4 @@
-#Online Python
+#Python
 
 Welcome everyone! This is a repository to help track our progress moving through the learning platform.
 

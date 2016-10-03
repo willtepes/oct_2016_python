@@ -1,0 +1,11 @@
+function AboutMe(person) {
+  if(person == "Josh")  {
+    console.log(["Fact 1 - I worked numerous Jobs, I use to be a lifegaurd, a verizon rep, a car salesman ( sold a audi allroad my first day! :), all the way down to Ironworking in the Union"],
+    ["Fact 2 - Im here because a forklift ran over my ankle during work, and gave me leisure time to decide what I reallly want to do in life, through complentating my life, I found coding dojo!"],
+    ["Fact 3 - Im 20 years old, young as I can be and as Old as I can be, working hard to become one day a Developer"]);
+  }
+  else {
+    console.log("Greetings Earthling!, Your in the wrong Directory hehe");
+  }
+}
+AboutMe("Josh")

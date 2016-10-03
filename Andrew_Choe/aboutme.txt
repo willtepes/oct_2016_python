@@ -6,6 +6,6 @@
 
 \f0\fs24 \cf0 My name is Andrew Choe\
 \
-1) I am currently a student at UW-Seattle\
-2) I love sports! I play soccer, basketball, and volleyball!\
-3) My favorite hobbies are hiking and rock climbing!}
+1) I play soccer, basketball, and volleyball!\
+2) I like to go hiking and rock climbing!\
+3) I\'92ve only broken one bone in my body, my pinky}
